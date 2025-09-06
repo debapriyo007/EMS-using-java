@@ -1,0 +1,39 @@
+# ======================
+# Frontend (React + Vite)
+# ======================
+node_modules/
+dist/
+build/
+.env
+.env.local
+.vite/
+
+# Editor/IDE stuff
+*.log
+.vscode/
+.idea/
+.DS_Store
+
+# ======================
+# Backend (Spring Boot)
+# ======================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Spring specific
+application-*.yml
+application-*.properties
+!application.properties   # keep base config
+
+# ======================
+# OS / Misc
+# ======================
+Thumbs.db
+*.iml
+*.swp
