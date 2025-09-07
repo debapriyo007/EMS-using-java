@@ -64,13 +64,15 @@ This application consists of two main parts:
 ## Demonstration
 
 ### Login and Register
-![Login Page](docs/screenshots/login.png)
+![Login Page](https://raw.githubusercontent.com/debapriyo007/EMS-using-java/refs/heads/main/frontend-using-react/src/assets/demo-sc/Login_And_Register.jpg)
 
 ### Employee Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/debapriyo007/EMS-using-java/refs/heads/main/frontend-using-react/src/assets/demo-sc/Dashboard.jpg)
 
 ### Video Walkthrough
-[![Watch Demo](docs/video-demo.png)](https://youtu.be/your-video-link)
+## 🎥 Video Demo
+<video src="./frontend-using-react/src/assets/demo-sc/EMS_DEMO.mp4" controls width="700"></video>
+
 
 
 ## 🔗 Links
