@@ -69,9 +69,10 @@ This application consists of two main parts:
 ### Employee Dashboard
 ![Dashboard](https://raw.githubusercontent.com/debapriyo007/EMS-using-java/refs/heads/main/frontend-using-react/src/assets/demo-sc/Dashboard.jpg)
 
-### Video Walkthrough
+
 ## 🎥 Video Demo
-<video src="https://github.com/debapriyo007/EMS-using-java/blob/main/frontend-using-react/src/assets/demo-sc/EMS_DEMO.mp4" controls width="700"></video>
+<video src="https://github.com/debapriyo007/EMS-using-java/raw/main/frontend-using-react/src/assets/demo-sc/EMS_DEMO.mp4" controls width="700"></video>
+
 
 
 
