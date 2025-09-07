@@ -71,16 +71,9 @@ This application consists of two main parts:
 
 
 ## 🎥 Video Demo
-
-[![Demo](https://img.youtube.com/vi/rP7KPlEwFPo/0.jpg)](https://youtu.be/rP7KPlEwFPo)
-
+## [👉 Click Here ](https://youtu.be/rP7KPlEwFPo)
 
 
-
-
-
-
-## 🔗 Links
 <p align="center">
   <a href="https://katherineoelsner.com/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
