@@ -72,7 +72,7 @@ This application consists of two main parts:
 
 ## 🎥 Video Demo
 
-[![Demo]()](https://youtu.be/rP7KPlEwFPo)
+[![Demo](https://img.youtube.com/vi/rP7KPlEwFPo/0.jpg)](https://youtu.be/rP7KPlEwFPo)
 
 
 
