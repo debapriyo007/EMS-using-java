@@ -9,18 +9,13 @@ The project is designed to be responsive, user-friendly, and scalable for future
 
 ## Project Overview
 
-This application consists of two main parts:
+This application consists main part:
 
 1. **Backend (Spring Boot)**
    - Provides RESTful APIs for authentication and employee management.
    - Uses **Spring Security + JWT** for secure login and session handling.
    - Connects to a **MySQL database** via JPA/Hibernate for persistent storage.
 
-2. **Frontend (React + Vite)**
-   - User interface for admins to log in and manage employees.
-   - Includes **Google reCAPTCHA** validation on login/register to prevent bots.
-   - Fully responsive design that adapts to desktop, tablet, and mobile devices.
-   - Uses a **custom Toast notification system** for user feedback.
 
 ---
 
@@ -38,27 +33,6 @@ This application consists of two main parts:
 - Search employees by keyword.
 - View employees in a structured table format.
 
-### User Interface
-- Intuitive and responsive layout for all devices.
-- Real-time toast notifications for success, error, and info messages.
-- Horizontal scroll support for tables on small screens.
-- Simple and professional design for better usability.
-
----
-
-## Tech Stack
-
-### Frontend
-- React (with Vite for fast build and dev server)
-- Tailwind CSS (or inline responsive styling)
-- react-google-recaptcha
-- Custom Toast notification provider
-
-### Backend
-- Spring Boot
-- Spring Security with JWT
-- Hibernate/JPA
-- MySQL Database
 
 ---
 ## Demonstration
