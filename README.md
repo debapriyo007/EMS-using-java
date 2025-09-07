@@ -49,13 +49,13 @@ This application consists main part:
 
 
 <p align="center">
-  <a href="https://katherineoelsner.com/">
+  <a href="https://debu21.netlify.app/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://instagram.com/debu_21_21">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </p>
