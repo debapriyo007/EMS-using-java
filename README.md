@@ -1,24 +1,6 @@
 <div align="center">
   
-  <!-- Project Banner -->
-  <h1 style="font-size:40px; font-weight:800; color:#2c3e50; margin-bottom:10px;">
-    🌱 Employ Management System [Spring Boot] 
-  </h1>
   
-  <p style="font-size:18px; color:#555; max-width:750px; margin:auto;">
-    A <b>full-stack web application</b> that enables organizations to securely manage employee data.  
-    Includes <b>JWT Authentication</b>, <b>Google reCAPTCHA v2</b>, and full <b>CRUD features</b>.  
-    Built for scalability, responsiveness, and ease of use.
-  </p>
-
-  <!-- Trendshift Badge -->
-  <a href="https://trendshift.io/repositories/151" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/151" 
-         alt="Trendshift Badge" 
-         style="width:260px; height:60px; margin-top:15px;"/>
-  </a>
-  
-  <br><br>
   
   <!-- Shields Badges -->
   <p>
@@ -30,7 +12,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Project Overview
 This application consists of two main parts:
